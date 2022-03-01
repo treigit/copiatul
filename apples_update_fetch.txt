@@ -1,0 +1,2 @@
+This is the apple.txt file that should be updated when I use 'git fetch'
+
